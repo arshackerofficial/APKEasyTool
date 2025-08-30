@@ -91,4 +91,3 @@ This repository does not define a custom license. Treat it as a **continuation p
 * Java SDK/Jarsigner
 * Community contributors
 
-```
